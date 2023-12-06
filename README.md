@@ -28,9 +28,9 @@ Home | Master Data | Transactions | AddProduct | QR Code
     UI-related data that isn"t destroyed on UI changes.
   - [Jetpack Compose Navigation](https://developer.android.com/jetpack/compose/navigation) - The
     Navigation component provides support for Jetpack Compose applications.
-  - [Room](https://developer.android.com/training/data-storage/room) - The Room persistence library provides an abstraction layer over SQLite to allow fluent         database access while harnessing the full power of SQLite.
-  - [Material Components for Android](https://github.com/material-components/material-components-android)
-  - Modular and customizable Material Design UI components for Android.
+- [Room](https://developer.android.com/training/data-storage/room) - The Room persistence library provides an abstraction layer over SQLite to allow fluent         database access while harnessing the full power of SQLite.
+- [Material Components for Android](https://github.com/material-components/material-components-android)
+- Modular and customizable Material Design UI components for Android.
 
 
 ## Architecture 🗼
