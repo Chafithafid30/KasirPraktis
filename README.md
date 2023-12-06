@@ -2,26 +2,17 @@
 Simple Point of Sales Android Application
 
 ## Screenshots 📱 
-Filing Registration:
-![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/94f96fd58993c28f7ff39cd3674803ced6e2ff9f/Halaman%20Pendaftaran%20Pemberkasan.png)
+Homepage Screen:
+![](https://github.com/Chafithafid30/KasirPraktis/blob/930fd4bae147a88343e75cb5c72fe262ca1a4618/Homepage%20Screen.png)
 
-Cpanel:
-![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/94f96fd58993c28f7ff39cd3674803ced6e2ff9f/Halaman%20cpanel.png)
+Master Data Screen:
+![](https://github.com/Chafithafid30/KasirPraktis/blob/930fd4bae147a88343e75cb5c72fe262ca1a4618/Master%20Data%20Screen.png)
 
-Admin Dashboard:
-![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/94f96fd58993c28f7ff39cd3674803ced6e2ff9f/Halaman%20Dashboard%20Admin.png)
+Transaction Screen:
+![](https://github.com/Chafithafid30/KasirPraktis/blob/930fd4bae147a88343e75cb5c72fe262ca1a4618/Transaksi%20Screen.png)
 
-Admin Section Letter Request List:
-![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/94f96fd58993c28f7ff39cd3674803ced6e2ff9f/Halaman%20List%20Ajuan%20Admin.png)
+Adding Product Screen:
+![](https://github.com/Chafithafid30/KasirPraktis/blob/930fd4bae147a88343e75cb5c72fe262ca1a4618/Adding%20Product%20Screen.png)
 
-List of Admin Section Letter Categories:
-![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/94f96fd58993c28f7ff39cd3674803ced6e2ff9f/Halaman%20List%20Kategori%20Admin.png)
-
-Village Head Dashboard:
-![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/94f96fd58993c28f7ff39cd3674803ced6e2ff9f/Halaman%20Dashboard%20Lurah.png)
-
-List of Submission Letters from the Village Head:
-![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/94f96fd58993c28f7ff39cd3674803ced6e2ff9f/Halaman%20List%20Ajuan%20Lurah.png)
-
-PASS All Unit Testing:
-![](https://github.com/Chafithafid30/Aplikasi-Website-Desa-Ponggok-Blitar/blob/4c2d4528a8ce68932c4f0e5bc5294e879cc62c6a/PASS%20All%20Unit%20Test.png)
+QR Code Screen:
+![](https://github.com/Chafithafid30/KasirPraktis/blob/930fd4bae147a88343e75cb5c72fe262ca1a4618/QR%20Code%20Screen.png)
