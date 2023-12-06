@@ -45,7 +45,7 @@ View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app
 
 MIT License
 
-Copyright (c) 2023 Gautam Hazarika
+Copyright (c) 2023 Mochammad Nafisa Chafith
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
